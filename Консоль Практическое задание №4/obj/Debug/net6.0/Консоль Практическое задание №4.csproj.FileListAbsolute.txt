@@ -1,0 +1,15 @@
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\bin\Debug\net6.0\Консоль Практическое задание №4.exe
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\bin\Debug\net6.0\Консоль Практическое задание №4.deps.json
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\bin\Debug\net6.0\Консоль Практическое задание №4.runtimeconfig.json
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\bin\Debug\net6.0\Консоль Практическое задание №4.dll
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\bin\Debug\net6.0\Консоль Практическое задание №4.pdb
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.csproj.AssemblyReference.cache
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.AssemblyInfoInputs.cache
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.AssemblyInfo.cs
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.csproj.CoreCompileInputs.cache
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.dll
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\refint\Консоль Практическое задание №4.dll
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.pdb
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\Консоль Практическое задание №4.genruntimeconfig.cache
+C:\Users\Ad\Downloads\Console_Prac-4-main\Console_Prac-4-main\Консоль Практическое задание №4\obj\Debug\net6.0\ref\Консоль Практическое задание №4.dll
